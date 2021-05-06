@@ -1,2 +1,2 @@
-# colabTest
-To test the connection between google colab and githug
+# DepDetect Model
+ML approach to detect depressive Sinhala comments
